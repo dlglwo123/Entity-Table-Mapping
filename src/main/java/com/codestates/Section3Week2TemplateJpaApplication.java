@@ -11,3 +11,5 @@ public class Section3Week2TemplateJpaApplication {
 	}
 
 }
+
+// 기본 엔티티 매핑
